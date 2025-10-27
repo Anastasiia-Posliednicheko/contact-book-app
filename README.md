@@ -1,4 +1,23 @@
-# React + Vite
+# Contact Book App
+
+Contact Book built with modern frontend tools. Create, search, edit, and delete contacts in a clean UI. Designed to be easy to run locally and simple to deploy.## Features
+
+- Add / edit / delete contacts
+- Quick search & filtering (by name / phone / email)
+- Responsive UI, keyboard-friendly forms
+- Persistent state (API or local storage—depending on your setup)
+- Toast notifications for success/error (optional)
+- Form validation with helpful messages
+## Tech Stack
+
+- **React** (Hooks)
+- **Redux Toolkit** (slices & selectors) or Context (if you use it)
+- **React Router** (optional, if you have multiple pages)
+- **Axios** or native Fetch for API calls
+- **Vite** for dev/build (or CRA if that’s what you used)
+- **CSS Modules 
+- **react-hot-toast** 
+- **ESLint + Prettier** 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
